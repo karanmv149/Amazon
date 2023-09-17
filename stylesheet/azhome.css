@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav .navbar_main{
+    height: 60px;
+    display: flex;
+}
